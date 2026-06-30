@@ -1,1 +1,1 @@
-{"id":"bsl","version":"10.1.3","dependencies":{"iris":"*","vanilla":">=1.7.10, <=26.2"}}
+{"id":"bsl","version":"10.1.3","dependencies":{"vanilla":">=1.7.10, <=26.2","iris":"*"}}

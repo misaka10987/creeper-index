@@ -1,1 +1,1 @@
-{"id":"iris","version":"1.8.8+mc1.21.1","dependencies":{"sodium":"*","vanilla":"=1.21.1"},"either-dependency":[{"iris-neoforge":"=1.8.8"}]}
+{"id":"iris","version":"1.8.8+mc1.21.1","dependencies":{"vanilla":"=1.21.1","sodium":"*"},"either-dependency":[{"iris-neoforge":"=1.8.8"}]}
