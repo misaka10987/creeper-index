@@ -1,1 +1,1 @@
-{"id":"iris-neoforge","version":"1.8.8+mc1.21.1","dependencies":{"vanilla":">=1.21"}}
+{"id":"iris-neoforge","version":"1.8.8+mc1.21.1","dependencies":{"neoforge":"*","vanilla":">=1.21"}}
