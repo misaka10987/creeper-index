@@ -1,1 +1,1 @@
-{"id":"libipn-neoforge","version":"6.6.3","dependencies":{"neoforge":">=21.1","vanilla":">=1.21.1, <1.21.2"}}
+{"id":"libipn-neoforge","version":"6.6.3","dependencies":{"kotlin-for-forge":">=5.7","neoforge":">=21.1","vanilla":">=1.21.1, <1.21.2"}}
