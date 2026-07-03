@@ -1,0 +1,1 @@
+{"id":"createaddition","version":"1.6.0","dependencies":{"create":">=6.0.7, <6.1.0","vanilla":"=1.21.1"},"either-dependency":[{"createaddition-neoforge":"=1.6.0"}]}
