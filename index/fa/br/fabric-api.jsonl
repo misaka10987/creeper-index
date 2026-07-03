@@ -1,0 +1,1 @@
+{"id":"fabric-api","version":"0.116.13+1.21.1","dependencies":{"fabric":">=0.15.11","vanilla":"=1.21.1"}}
