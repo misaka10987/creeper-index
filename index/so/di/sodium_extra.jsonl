@@ -1,1 +1,2 @@
+{"id":"sodium_extra","version":"0.6.0+mc1.21.1","dependencies":{"sodium":">=0.6.0","vanilla":">=1.21, <=1.21.1"},"either-dependency":[{"sodium_extra-neoforge":"=0.6.0"}]}
 {"id":"sodium_extra","version":"0.9.1+mc1.21.1","dependencies":{"sodium":">=0.8.12-alpha.3","vanilla":">=1.21.1, <1.21.2"},"either-dependency":[{"sodium_extra-neoforge":"=0.9.1"}]}
