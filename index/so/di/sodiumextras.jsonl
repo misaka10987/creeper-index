@@ -1,0 +1,1 @@
+{"id":"sodiumextras","version":"1.0.7","dependencies":{"sodium":"*","vanilla":">=1.21.1"},"either-dependency":[{"sodiumextras-neoforge":"=1.0.7"}]}
