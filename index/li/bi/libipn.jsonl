@@ -1,0 +1,1 @@
+{"id":"libipn","version":"6.6.3","dependencies":{"vanilla":">=1.21.1, <1.21.2"},"either-dependency":[{"libipn-neoforge":"=6.6.3"}]}
